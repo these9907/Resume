@@ -22,12 +22,11 @@
 아이디: admin 비밀번호:1234
 
 ### 개발 
-- Java, JavaScript, Jquery, Mysql, Spring,Mybatis, Mvc, Boostrap4 사용
+- Java, Mysql, Spring,Mybatis, Mvc, Boostrap4 사용
 - Boostrap으로 UI 구현
 - Spring 프레임워크 사용
 - Mvc 구조로 구현
 - Java로 페이지네이션, 검색기능등 비즈니스 로직 구현
-- JavaScript, Jquery로 기능 구현
 
 ## 쇼핑몰
 쇼핑몰 프로젝트입니다
@@ -38,9 +37,22 @@
 
 ### 개발 
 - Java, JavaScript, Jquery, Mysql, Spring,Mybatis, Mvc, Boostrap4 사용
-- Boostrap으로 UI 구현
+- Boostrap으로 UI 구현, 탬플릿 사용
 - Spring 프레임워크 사용
 - Mvc 구조로 구현
 - Java로 페이지네이션, 검색기능등 비즈니스 로직 구현
 - JavaScript, Jquery로 기능 구현
 
+# 사용 가능 기술 
+
+
+# 학력
+* 가톨릭대학교 컴퓨터공학과 졸업
+* 금촌고등학교 졸업
+
+# 자격증
+* 정보처리기사
+* 컴퓨터 활용2급
+
+# 어학
+* 토익 735점
