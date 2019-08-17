@@ -18,13 +18,29 @@
 간단한 게시판 기능 구현입니다
 로그인, 회원가입, 글 작성, 수정, 삭제 , 댓글 작성, 수정, 삭제,
 페이지네이션,검색기능,인터셉터 활용등 웹페이지를 만드는데 가장 필요한 최소 기능들을 구현 하였습니다.<br/>
-주소: http://these9907.cafe24.com/board/listPage
+주소: http://these9907.cafe24.com/board/listPage<br/>
 아이디: admin 비밀번호:1234
+
+### 개발 
+- Java, JavaScript, Jquery, Mysql, Spring,Mybatis, Mvc, Boostrap4 사용
+- Boostrap으로 UI 구현
+- Spring 프레임워크 사용
+- Mvc 구조로 구현
+- Java로 페이지네이션, 검색기능등 비즈니스 로직 구현
+- JavaScript, Jquery로 기능 구현
 
 ## 쇼핑몰
 쇼핑몰 프로젝트입니다
-로그인, 회원가입, 관리자모드, 관리자모드의 상품 등록, 수정, 삭제, 카테고리,이미지 첨부, 상품목록, 상세페이지, 장바구니, 취소, 주문목록, 주문취소, <br/>
+로그인, 회원가입, 관리자모드, 관리자모드의 상품 등록, 수정, 삭제, 카테고리,이미지 첨부, 상품목록, 상세페이지, 장바구니, 취소, 주문목록, 주문취소, 
 인터셉터등 게시판 프로젝트에서 배운 것을 토대로 쇼핑몰에서 활용하는 최소한의 모든 기능을 구현 하였습니다<br/>
 주소: http://these9907.cafe24.com/shop/e-com<br/>
 아이디: admin 비밀번호: star8903
+
+### 개발 
+- Java, JavaScript, Jquery, Mysql, Spring,Mybatis, Mvc, Boostrap4 사용
+- Boostrap으로 UI 구현
+- Spring 프레임워크 사용
+- Mvc 구조로 구현
+- Java로 페이지네이션, 검색기능등 비즈니스 로직 구현
+- JavaScript, Jquery로 기능 구현
 
