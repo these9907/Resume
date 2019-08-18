@@ -47,7 +47,13 @@
 
 <img alt="javascript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> <img alt="html5" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/css.jpg" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/spring2.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/boot.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/oracle.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/mysql.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/jq.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/c.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/c++.png" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/git.jpg" width="32" height="32"/> <img src="https://github.com/these9907/Resume/blob/master/images/eclipse.png" width="32" height="32"/> 
 
-
+- HTML, CSS, Java, JavaScript, Jquery, Spring, Mysql, Mybatis, Oracle, Mysql를 이용하여 웹 프로젝트를 하였습니다
+- Java에 대한 기본적인 개념들과 특징들을 충분히 이해하고 있습니다
+- UI는 주로BootStrap을 이용하고 원하는 부분은 직접 HTML, CSS를 수정 하고 있습니다
+- DB에 대한 CRUD와 Join 정규화과정등 기본 개념을 이해하고 있습니다
+- Spring프레임워크에 대한 이해화 MVC구조를 이해하고 있습니다
+- DOM에 대한 이해 JavaScript 기능 Jqeury에 대한 편리함 메서드체인등을 이해하고 있습니다
+- C, C++, 기본적인 자료구조, 알고리즘을 학습 하였습니다
 
 
 # 학력
