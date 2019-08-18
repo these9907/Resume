@@ -45,6 +45,21 @@
 
 # 사용 가능 기술 
 
+<img alt="javascript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> 
+<img alt="html5" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/css.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/spring2.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/boot.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/oracle.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/mysql.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/jq.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/c.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/c++.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/git.jpg" width="32" height="32"/> 
+<img src="https://github.com/these9907/Resume/blob/master/images/eclipse.jpg" width="32" height="32"/> 
+
+
+
 
 # 학력
 * 가톨릭대학교 컴퓨터공학과 졸업
